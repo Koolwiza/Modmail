@@ -4,6 +4,7 @@ A single guild modmail discord bot made with discord.js v12
 # 📝 Set-Up
 - ```npm i```
 - ```npm start```
+- Fill up config.json
 
 Commands | Usage
 ------------ | -------------
