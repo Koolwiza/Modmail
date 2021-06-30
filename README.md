@@ -1,6 +1,8 @@
 # Version 1.0.1
 A single guild modmail discord bot made with discord.js v12
 
+> Looking for a multi guild modmail? Click [here](https://github.com/Koolwiza/Multi-Guild-Modmail)
+
 # 📝 Set-Up
 - ```npm i```
 - ```npm start```
